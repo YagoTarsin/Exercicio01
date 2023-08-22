@@ -5,3 +5,5 @@ Um engenheiro de automação capturou durante um período de 30 dias Dados Clim�
 
 - Para todas as grandezas climáticas, os valores mínimos, máximos, médios em 24 horas de um do vigésimo dia;
 - A quantidade de ciclos por período de coleta neste dia.
+
+obs: Rodar em terminal, navegue até o repositório e: `python CalculoDados.py`
